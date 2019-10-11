@@ -1,0 +1,81 @@
+#navbarNavDropdown a {
+color: brown;
+text-align: right;
+}
+
+#navbarNavDropdown a:hover {
+    color: coral;
+}
+
+/* banner */
+
+
+.jumbotron{
+max-height: 800px;
+padding: 140px 0px ;
+background: linear-gradient(rgba(94, 57, 59, 0.082) , rgba(224, 18, 18, 0.541)), url(../immagini/campo.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+text-align: center;
+}
+.jumbotron h1{
+    font-size: 86px;
+    font-weight: bold;
+}
+
+.btn-outline-danger {
+    color: #ffffff;
+    border-color: #dc3545;
+    border: 6px solid ;
+}
+
+.lead {
+    margin-bottom: 4rem ;
+}
+
+/*     blocco 1        */
+ #blocco1 .row {
+     padding: 60px 60px;
+ }
+
+ #blocco1 .spazio {
+     padding: 20px 20px;
+ }
+/*  end     */
+
+/* blocco 2   */
+
+#blocco2 {
+    padding-bottom: 80px;
+}
+.card {
+    border: none;
+}
+.card-img-top {
+    padding: 0 20px;
+    max-height: 350px;
+}
+.card-body {
+    padding: 0 20px;
+}
+#blocco2 .row {
+    padding: 0 20px;
+}
+
+#blocco2 .card-body {
+    text-align: center;
+}
+
+
+
+
+/*     footer      */
+footer .col {
+    padding: 0 30px;
+}
+footer{
+    padding-top: 100px;
+    background-color: #a00203;
+}
+
